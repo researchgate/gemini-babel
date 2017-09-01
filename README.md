@@ -1,5 +1,7 @@
 # gemini-babel
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/researchgate/gemini-babel.svg)](https://greenkeeper.io/)
+
 [Gemini](https://github.com/gemini-testing/gemini) plugin, which allows to use
 [babel](https://babeljs.io/) for writing tests.
 
